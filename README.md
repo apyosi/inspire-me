@@ -7,7 +7,7 @@
 <a href="https://github.com/apyosi/inspire-me/stargazers"><img src="https://img.shields.io/github/stars/apyosi/inspire-me.svg?style=for-the-badge" alt=""></a>
 <a href="https://github.com/apyosi/inspire-me/issues"><img src="https://img.shields.io/github/issues/apyosi/inspire-me.svg?style=for-the-badge" alt=""></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=""></a><br>
-<h2><a href="https://transcendent-kringle-16abc9.netlify.app/" target="_blank"">View Demo</a></h2><br>
+<h2><a href="https://apyosi.github.io/inspire-me/" target="_blank"">View Demo</a></h2><br>
 </div>
 <details open>
   <summary>Table of Contents</summary>
@@ -37,6 +37,11 @@ InspireMe is a charity organisation based in Brixton London which specialises in
 ![screenshot](./demo/image2.png "Product page screenshot")
 <-->
 <a href="./demo/demo1.png"><img src="./demo/demo1.png" alt="Home Page" title="Home Page" width="160px"/></a>
+<a href="./demo/demo2.png"><img src="./demo/demo2.png" alt="Home Page" title="Home Page" width="160px"/></a>
+<a href="./demo/demo3.png"><img src="./demo/demo3.png" alt="Home Page" title="Home Page" width="160px"/></a>
+<a href="./demo/demo4.png"><img src="./demo/demo4.png" alt="Home Page" title="Home Page" width="160px"/></a>
+<a href="./demo/demo5.png"><img src="./demo/demo5.png" alt="Home Page" title="Home Page" width="160px"/></a>
+<a href="./demo/demo6.png"><img src="./demo/demo6.png" alt="Home Page" title="Home Page" width="160px"/></a>
 
 
 
@@ -53,7 +58,7 @@ InspireMe is a charity organisation based in Brixton London which specialises in
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2 id="installation">🛠️ Installation</h2>
+<h2 id="installation">💾 Installation</h2>
 
 Clone the repository: 
 ```git@github.com:apyosi/Project-Name.git```

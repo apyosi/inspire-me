@@ -37,14 +37,11 @@ InspireMe is a charity organisation based in Brixton London which specialises in
 ![screenshot](./demo/image2.png "Product page screenshot")
 <-->
 <a href="./demo/demo1.png"><img src="./demo/demo1.png" alt="Home Page" title="Home Page" width="160px"/></a>
-<a href="./demo/demo2.png"><img src="./demo/demo2.png" alt="Home Page" title="Home Page" width="160px"/></a>
-<a href="./demo/demo3.png"><img src="./demo/demo3.png" alt="Home Page" title="Home Page" width="160px"/></a>
-<a href="./demo/demo4.png"><img src="./demo/demo4.png" alt="Home Page" title="Home Page" width="160px"/></a>
-<a href="./demo/demo5.png"><img src="./demo/demo5.png" alt="Home Page" title="Home Page" width="160px"/></a>
-<a href="./demo/demo6.png"><img src="./demo/demo6.png" alt="Home Page" title="Home Page" width="160px"/></a>
-
-
-
+<a href="./demo/demo3.png"><img src="./demo/demo3.png" alt="News Page" title="News Page" width="160px"/></a>
+<a href="./demo/demo2.png"><img src="./demo/demo2.png" alt="About Page" title="About Page" width="160px"/></a>
+<a href="./demo/demo5.png"><img src="./demo/demo5.png" alt="Quotes Page" title="Quotes Page" width="160px"/></a>
+<a href="./demo/demo6.png"><img src="./demo/demo6.png" alt="Contact" title="Contact Page" width="160px"/></a>
+<a href="./demo/demo4.png"><img src="./demo/demo4.png" alt="Guest Speakers Page" title="Guest Speakers Page" width="160px"/></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
